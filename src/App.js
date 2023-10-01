@@ -6,7 +6,7 @@ const AuthScreen = () => {
 
   return (
     <div style={{ textAlign: "center" }}>
-      <h1>Login / Signup</h1>
+      <h1>Signin / Signup</h1>
 
       <input
         type="text"
